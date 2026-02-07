@@ -39,27 +39,43 @@
 
 <h3>🎨 Frontend & Mobile</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,flutter,reactnative"/>
+<img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Bootstrap-UI-7952B3?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/React%20Native-Mobile-000000?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter"/>
 </p>
 
 <h3>⚙️ Backend</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-API-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Java-OOP-ED8B00?style=for-the-badge&logo=java"/>
 </p>
 
-<h3>🗄️ Databases</h3>
+<h3>🗄️ Databases & Cloud</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Firebase-Cloud-FFCA28?style=for-the-badge&logo=firebase"/>
 </p>
 
-<h3>🛠️ Languages</h3>
+<h3>💻 Languages</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=js,cpp,dart"/>
+<img src="https://img.shields.io/badge/JavaScript-Language-F7DF1E?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/C++-Language-00599C?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart"/>
 </p>
 
 <h3>🔧 Tools & Technologies</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/ESP32-IoT-3C3C3C?style=for-the-badge"/>
 </p>
 
 ---
