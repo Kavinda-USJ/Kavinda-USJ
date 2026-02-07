@@ -91,19 +91,6 @@
 
 ---
 
-<h2>📊 GitHub Analytics</h2>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kavinda-USJ&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinda-USJ&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavinda-USJ&theme=tokyo-night"/>
-</p>
-
----
-
 <h2>🤝 Connect With Me</h2>
 
 <p>
